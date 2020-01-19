@@ -1,2 +1,2 @@
 # new
-new one
+new one for the lesson
